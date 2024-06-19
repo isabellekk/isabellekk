@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, esse é o perfil de Isabelle
+
+ - Curso Alura
+ - Projetos diversos
 
 <!--
 **isabellekk/isabellekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
